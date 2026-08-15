@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=mazenhisham1&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
   <a href="https://www.linkedin.com/in/mazenhisham"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn" /></a>
   <a href="mailto:mazenelkala47@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat" alt="Email" /></a>
-  <a href="https://mazenhisham.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel&style=flat" alt="Portfolio" /></a>
+  <a href="https://mazen771.github.io/Mazen-hisham/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel&style=flat" alt="Portfolio" /></a>
 </p>
 
 ---
