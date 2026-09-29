@@ -76,15 +76,7 @@
 
 ---
 
-###  Featured Projects
 
-> Replace these with your real projects. Recruiters look here first.
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project Name](link)** | One line on the problem it solves and the result (e.g. accuracy, latency) | PyTorch, FastAPI, Docker |
-| **[Project Name](link)** | One line on the problem it solves and the result | Hugging Face, LangChain |
-| **[Project Name](link)** | One line on the problem it solves and the result | OpenCV, TensorFlow |
 
 ---
 
