@@ -14,19 +14,19 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🤖 **AI Engineer** focused on designing, training, and deploying machine learning and deep learning models
-- 🌱 Currently deepening my skills in **LLMs, deep learning, and MLOps**
-- 🏗️ I care about the full lifecycle: data pipelines → model development → evaluation → deployment
-- 👯 Looking to collaborate on **AI-driven projects that make real-world impact**
-- 👨‍💻 All of my projects are showcased at **[mazen771.github.io/Mazen-hisham](https://mazen771.github.io/Mazen-hisham/)**
-- 📫 Reach me at **mazenelkala47@gmail.com**
-- ⚡ Fun fact: **I believe a model is only as good as the data behind it, and messy data is where the real engineering starts.**
+-  **AI Engineer** focused on designing, training, and deploying machine learning and deep learning models
+-  Currently deepening my skills in **LLMs, deep learning, and MLOps**
+-  I care about the full lifecycle: data pipelines → model development → evaluation → deployment
+-  Looking to collaborate on **AI-driven projects that make real-world impact**
+-  All of my projects are showcased at **[mazen771.github.io/Mazen-hisham](https://mazen771.github.io/Mazen-hisham/)**
+-  Reach me at **mazenelkala47@gmail.com**
+-  Fun fact: **I believe a model is only as good as the data behind it, and messy data is where the real engineering starts.**
 
 ---
 
-### 🧠 What I Work On
+### What I Work On
 
 - **Deep Learning:** neural networks for vision and language tasks
 - **Computer Vision:** image processing and detection pipelines with OpenCV and PyTorch
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -79,7 +79,7 @@
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mazenhisham" target="blank">
